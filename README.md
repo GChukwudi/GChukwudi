@@ -1,0 +1,1 @@
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there+👋;I+am+God'sfavour+Chukwudi;Software+Engineering+Student;)](https://git.io/typing-svg)
