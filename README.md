@@ -4,7 +4,7 @@
 ## 💫 About Me:
 * Currently, I am focused on developing the skills of Fullstack Engineering and Cybersecurity.
 * My interests are vast in the fields of innovation and creativity.
-* I'm excited to collaborate on projects that complement my abilities and goals.
+* I'm excited to collaborate on projects that complement my abilities and goals
 
 
 ### 🌐 Socials:
